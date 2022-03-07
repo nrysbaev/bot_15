@@ -1,2 +1,8 @@
 .idea
 venv
+.env
+__pycache
+*.py[cod]
+*$py.class
+*.so
+media
